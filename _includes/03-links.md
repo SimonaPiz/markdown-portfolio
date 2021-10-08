@@ -1,1 +1,1 @@
-[GitHub](http://github.com/SimonaPiz)
+[GitHub Simona Pizio](https://github.com/SimonaPiz/markdown-portfolio)
